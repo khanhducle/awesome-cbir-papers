@@ -7,7 +7,7 @@
 - [Learning a Complete Image Indexing Pipeline](https://arxiv.org/pdf/1712.04480.pdf), CVPR 2018
 
 #### Local Feature Based
-**:
+**: Not yet read
 
 - [Object retrieval with large vocabularies and fast spatial matching](https://www.robots.ox.ac.uk/~vgg/publications/papers/philbin07.pdf)
 - [**Visual Categorization with Bags of Keypoints**](http://www.cs.princeton.edu/courses/archive/fall09/cos429/papers/csurka-eccv-04.pdf)
