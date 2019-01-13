@@ -18,35 +18,34 @@
 - [**On-the-fly learning for visual search of large-scale image and video datasets**](https://www.robots.ox.ac.uk/~vgg/publications/2015/Chatfield15/chatfield15.pdf)
 - [All about VLAD]()
 - [Aggregating localdescriptors into a compact image representatio]()
-- [More About VLAD: A Leap from Euclidean to Riemannian Manifolds]()
+- [**More About VLAD: A Leap from Euclidean to Riemannian Manifolds**]()
 - [Hamming embedding and weak geometric consistency for large scale image search]()
-- [Revisiting the VLAD image representation](https://hal.inria.fr/hal-00840653v1/document), [project](https://github.com/jorjasso/VLAD/blob/master/VLADlib/VLAD.py)
-- [Improving the Fisher Kernel for Large-Scale Image Classification](https://www.robots.ox.ac.uk/~vgg/rg/papers/peronnin_etal_ECCV10.pdf)
+- [**Revisiting the VLAD image representation**](https://hal.inria.fr/hal-00840653v1/document), [project](https://github.com/jorjasso/VLAD/blob/master/VLADlib/VLAD.py)
+- [**Improving the Fisher Kernel for Large-Scale Image Classification**](https://www.robots.ox.ac.uk/~vgg/rg/papers/peronnin_etal_ECCV10.pdf)
 - [Image Classification with the Fisher Vector: Theory and Practice](https://hal.inria.fr/hal-00830491/document)
-- [Democratic Diffusion Aggregation for ImageRetrieval]()
-- [A Vote-and-Verify Strategy for Fast Spatial Verification in Image Retrieval]()
+- [**Democratic Diffusion Aggregation for ImageRetrieval**]()
+- [**A Vote-and-Verify Strategy for Fast Spatial Verification in Image Retrieval**]()
 - [Triangulation embedding and democratic aggregation for image search]()
 
 #### Deep Learning Feature (Global Feature)
 
 - [Deep Image Retrieval:Learning Global Representations for Image earch](https://arxiv.org/abs/1604.01325)
-- [End-to-end Learning of Deep Visual Representations for Image retrieval](), DIR更详细的论文说明
-- [What Is the Best Practice for CNNs Applied to Visual Instance Retrieval?](), 关于layer选取的问题
-- [Bags of Local Convolutional Features for Scalable Instance Search](https://arxiv.org/abs/1604.01325)
-- [Faster R-CNN Features for Instance Search](https://github.com/imatge-upc/retrieval-2016-deepvision)
-- [Cross-dimensional Weighting for Aggregated Deep Convolutional Features](https://arxiv.org/abs/1512.04065), [project](https://github.com/yahoo/crow)
-- [Class-Weighted Convolutional Features for Image Retrieval](https://github.com/imatge-upc/retrieval-2017-cam)
+- [**End-to-end Learning of Deep Visual Representations for Image retrieval**](), DIR更详细的论文说明
+- [**What Is the Best Practice for CNNs Applied to Visual Instance Retrieval?**](), 关于layer选取的问题
+- [**Bags of Local Convolutional Features for Scalable Instance Search**](https://arxiv.org/abs/1604.01325)
+- [**Faster R-CNN Features for Instance Search**](https://github.com/imatge-upc/retrieval-2016-deepvision)
+- [**Cross-dimensional Weighting for Aggregated Deep Convolutional Features**](https://arxiv.org/abs/1512.04065), [project](https://github.com/yahoo/crow)
+- [**Class-Weighted Convolutional Features for Image Retrieval**](https://github.com/imatge-upc/retrieval-2017-cam)
 - [Multi-Scale Orderless Pooling of Deep Convolutional Activation Features](), VLAD coding
-- [Aggregating Deep Convolutional Features for Image Retrieval](https://arxiv.org/abs/1510.07493), [论文笔记](https://zhuanlan.zhihu.com/p/23136747), [基于深度学习的视觉实例搜索研究进展](https://zhuanlan.zhihu.com/p/22265265).
+- [**Aggregating Deep Convolutional Features for Image Retrieval**](https://arxiv.org/abs/1510.07493), [论文笔记](https://zhuanlan.zhihu.com/p/23136747), [基于深度学习的视觉实例搜索研究进展](https://zhuanlan.zhihu.com/p/22265265).
 - [Particular object retrieval with integral max-pooling of CNN activations](https://arxiv.org/abs/1511.05879), [project](http://cmp.felk.cvut.cz/~toliageo/soft.html)
-- [Particular object retrieval using CNN](https://github.com/AaltoVision/Object-Retrieval)
-- [Learning to Match Aerial Images with Deep Attentive Architectures](https://vision.cornell.edu/se3/wp-content/uploads/2016/04/1204.pdf).
-- [Siamese Network of Deep Fisher-Vector Descriptors for Image Retrieval](https://arxiv.org/pdf/1702.00338v1.pdf)
-- [Combining Fisher Vector and Convolutional Neural Networks for Image Retrieval](http://ceur-ws.org/Vol-1653/paper_19.pdf), fv和cnn特征融合提升
-- [Selective Deep Convolutional Features for Image Retrieval](https://arxiv.org/pdf/1707.00809v1.pdf)
-- [Class-Weighted Convolutional Features for Image Retrieval](https://github.com/imatge-upc/retrieval-2017-cam)
+- [**Particular object retrieval using CNN**](https://github.com/AaltoVision/Object-Retrieval)
+- [**Learning to Match Aerial Images with Deep Attentive Architectures**](https://vision.cornell.edu/se3/wp-content/uploads/2016/04/1204.pdf).
+- [**Siamese Network of Deep Fisher-Vector Descriptors for Image Retrieval**](https://arxiv.org/pdf/1702.00338v1.pdf)
+- [**Combining Fisher Vector and Convolutional Neural Networks for Image Retrieval**](http://ceur-ws.org/Vol-1653/paper_19.pdf), fv和cnn特征融合提升
+- [**Selective Deep Convolutional Features for Image Retrieval**](https://arxiv.org/pdf/1707.00809v1.pdf)
 - [Towards Good Practices for Image Retrieval Based on CNN Features]()
-- [Fine-tuning CNN Image Retrieval with No Human Annotation](https://arxiv.org/abs/1711.02512)
+- [**Fine-tuning CNN Image Retrieval with No Human Annotation**](https://arxiv.org/abs/1711.02512)
 
 #### Deep Learning Feature (Local Feature)
 
